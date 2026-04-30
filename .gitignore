@@ -1,3 +1,12 @@
+# ignore dataset and metadata
+X-rays/
+train.csv
+val.csv
+train_groundtruth_BMD.csv
+val_groundtruth_BMD.csv
+train_images/
+val_images/
+
 # ignore local jupyter checkpoints
 .ipynb_checkpoints
 
